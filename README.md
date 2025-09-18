@@ -30,3 +30,4 @@ int main()
 	cout << "\nMaybe if you weren't such of a big back, you would save $"
 		<< price1 << " or $" << price2 << "...\n";
 	cout << "\nThank you, have a nice night!!" << endl;
+}
